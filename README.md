@@ -1,1 +1,1 @@
-# praticas-em-web
+# Praticas em WEB, python, html, css..
